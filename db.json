@@ -1,0 +1,121 @@
+{
+  "uploadVideos": [
+    {
+      "id": "35d2",
+      "caption": "Linkin Park",
+      "imgUrl": "https://www.wecb.fm/wp-content/uploads/2024/02/Linkin-Park-announces-Friendly-Fire-with-Chester-Bennington.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/WNeLUngb-Xg"
+    },
+    {
+      "id": "fae7",
+      "caption": "Cigarettes after Sex",
+      "imgUrl": "https://img.youtube.com/vi/F_6Emq5dyXQ/0.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/3XqqkrJENB4"
+    },
+    {
+      "id": "d988",
+      "caption": "Peaky Blinders",
+      "imgUrl": "https://cdn.artphotolimited.com/images/647ddd6dbd40b8de8b992582/1000x1000/thomas-shelby-the-powerful-man.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/3XqqkrJENB4"
+    },
+    {
+      "id": "f1c0",
+      "caption": "Breaking Bad",
+      "imgUrl": "https://wallpapers.com/images/hd/breaking-bad-moment-at-sunset-0qia8adg0ai5730a.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/HhesaQXLuRY"
+    }
+  ],
+  "categories": [
+    {
+      "id": "efe3",
+      "categoryName": "Music",
+      "allVideos": [
+        {
+          "id": "6466",
+          "caption": "Cielings - Lizzy Mcalpine",
+          "imgUrl": "https://i0.wp.com/www.passtheaux.co/wp-content/uploads/2022/04/Lizzy-McAlpine-Masonic-2022-mainbar.png?fit=752%2C440&ssl=1",
+          "youTubeLink": "https://www.youtube.com/embed/2bpMSpFTdzM"
+        }
+      ]
+    },
+    {
+      "id": "8e94",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "e060",
+          "caption": "Vaazha",
+          "imgUrl": "https://i.ytimg.com/vi/EdsxhVLDLb4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAxc1-DgI1jOq6VDjdOOxLLYxBVQQ",
+          "youTubeLink": "https://www.youtube.com/embed/IKpkXzMxTq0"
+        }
+      ]
+    },
+    {
+      "id": "98c5",
+      "categoryName": "Series",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "ec4c",
+      "caption": "Chester",
+      "youTubeLink": "https://www.youtube.com/embed/ysSxxIqKNN0",
+      "timeStamp": "11/4/2024, 10:55:10 AM GMT+5:30"
+    },
+    {
+      "id": "92e7",
+      "caption": "Cielings - Lizzy Mcalpine",
+      "youTubeLink": "https://www.youtube.com/embed/2bpMSpFTdzM",
+      "timeStamp": "11/5/2024, 10:10:40 AM GMT+5:30"
+    },
+    {
+      "id": "40e1",
+      "caption": "Cielings - Lizzy Mcalpine",
+      "youTubeLink": "https://www.youtube.com/embed/2bpMSpFTdzM",
+      "timeStamp": "11/5/2024, 10:14:00 AM GMT+5:30"
+    },
+    {
+      "id": "3064",
+      "caption": "Cigarettes after Sex",
+      "youTubeLink": "https://www.youtube.com/embed/3XqqkrJENB4",
+      "timeStamp": "11/5/2024, 10:14:07 AM GMT+5:30"
+    },
+    {
+      "id": "1773",
+      "caption": "Peaky Blinders",
+      "youTubeLink": "https://www.youtube.com/embed/3XqqkrJENB4",
+      "timeStamp": "11/5/2024, 10:14:12 AM GMT+5:30"
+    },
+    {
+      "id": "d69b",
+      "caption": "Breaking Bad",
+      "youTubeLink": "https://www.youtube.com/embed/HhesaQXLuRY",
+      "timeStamp": "11/5/2024, 10:14:16 AM GMT+5:30"
+    },
+    {
+      "id": "02c6",
+      "caption": "Beanie-Chezile",
+      "youTubeLink": "https://www.youtube.com/embed/tERTBPdVivc",
+      "timeStamp": "11/5/2024, 10:14:19 AM GMT+5:30"
+    },
+    {
+      "id": "d406",
+      "caption": "Beanie-Chezile",
+      "youTubeLink": "https://www.youtube.com/embed/tERTBPdVivc",
+      "timeStamp": "11/5/2024, 10:34:33 AM GMT+5:30"
+    },
+    {
+      "id": "60a6",
+      "caption": "Breaking Bad",
+      "youTubeLink": "https://www.youtube.com/embed/HhesaQXLuRY",
+      "timeStamp": "11/5/2024, 10:34:49 AM GMT+5:30"
+    },
+    {
+      "id": "be27",
+      "caption": "Chester",
+      "youTubeLink": "https://www.youtube.com/embed/ysSxxIqKNN0",
+      "timeStamp": "11/6/2024, 9:20:07 AM GMT+5:30"
+    }
+  ]
+}
